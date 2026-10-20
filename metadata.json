@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Campus CTP Acosta",
+  "description": "Aplicación móvil y portal institucional tipo Cloud Campus para el Colegio Técnico Profesional de Acosta: calificaciones MEP, asistencia, horarios, carné digital y comunicados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
